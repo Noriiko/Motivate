@@ -1,1 +1,10 @@
+* {
+    color: #ffffff;
+    background-color: #435066;
+    text-align:center;
+    font-family: 'Allerta Stencil'; 
+}
 
+img {
+    width: 15%; 
+}
